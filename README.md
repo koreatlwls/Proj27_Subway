@@ -1,3 +1,7 @@
+## ⚠️ 주의사항
+`gradle.properties` 파일에 `스마트 택배 API 키` 를 추가해야합니다.
+</br>
+
 # Android Clone Coding Project #27 Subway
 서울 지하철 역 목록 확인 가능
 </br>
